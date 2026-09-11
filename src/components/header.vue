@@ -4,8 +4,8 @@
         <img :src="logo" alt="CPU Logo" class="logo">
 
     <div class="title-text">
-        <div class="Title">Central Philippine University</div>
-        <div class="text">SCIENTIA ET FIDES</div>
+        <div class="Title">Monster University</div>
+        <div class="text">Roar</div>
     </div>
 </div>
 
@@ -25,7 +25,7 @@
 
 
 <script setup>
-import logo from "../assets/logo.png";
+import logo from "../assets/R.jpg";
 </script>
 
 <style scoped>
