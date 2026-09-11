@@ -1,7 +1,7 @@
 <template>
 <header class="navbar">
     <div class="header-title">
-        <img :src="logo" alt="CPU Logo" class="logo">
+        <img :src="logo" alt="Monster University Logo" class="logo">
 
     <div class="title-text">
         <div class="Title">Monster University</div>
@@ -15,6 +15,10 @@
         <router-link to="/admissions">Admissions</router-link>
         <router-link to="/academics">Academics</router-link>
         <router-link to="/campus-life">Campus Life</router-link>
+        <router-link to="/sample-data">Sample Data</router-link>
+        <router-link to="/sample-methods">Sample Methods</router-link>
+        <router-link to="/sample-vmodel">Live Profile</router-link>
+        <router-link to="/sample-vmodel">Live Profile</router-link>
 
         <button class="search-btn">🔍</button>
         <button class="portal-btn">👤 Portal Login</button>
